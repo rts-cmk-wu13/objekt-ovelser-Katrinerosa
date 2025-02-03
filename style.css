@@ -12,6 +12,34 @@ h1{
     text-align: center;
     
 }
+h2{
+    font-size: 36px;
+}
 p{
     font-size: 16px;
+}
+.students-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    background: #f4f4f4;
+    border-radius: 5px;
+}
+
+h3 {
+    margin-top: 15px;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #ffffff;
+    margin: 5px 0;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
 }
