@@ -1,0 +1,15 @@
+*{
+    margin: o auto;
+    padding: o auto;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 16px;
+}
